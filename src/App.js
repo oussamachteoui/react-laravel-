@@ -1,12 +1,14 @@
 import React from 'react';
-
+import Posts from './pages/posts'
 
 
 function App() {
   return (
     <div className="App">
-     <h1>test</h1>
      
+     <Posts /> 
+    
+
     </div>
   );
 }
